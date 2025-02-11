@@ -77,6 +77,7 @@ body {
   transform: translate(-50%, -50%);
   cursor: pointer;
   display: block; /* Always visible */
+  margin-top: 20px;
 }
 
 .animated-mail {
