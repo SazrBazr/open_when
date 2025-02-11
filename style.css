@@ -11,6 +11,7 @@ body {
   transform: translateX(-50%);
   text-align: center;
   margin-bottom: 20px;
+  padding-bottom: 50px; /* Added padding to provide more space on mobile */
 }
 
 .feeling-button {
